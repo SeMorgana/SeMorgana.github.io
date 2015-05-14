@@ -1,0 +1,59 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Zhuojun (Morgan) Zhang</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf8" />
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body id="body_index">
+<div id="wrapper">
+    <div id="header">
+        <h1>Zhuojun(Morgan) Zhang</h1>
+    </div>
+    <div id="content">
+        <div id="menu">
+            <ul>
+                <li><a href="index.html">About</a></li>
+                <li><a href="projects.html">Projects</a></li>
+                <li><a href="courses.html">Coursework</a></li>
+                <li><a href="misc.html">Misc</a></li>
+                <li><a href="cv.pdf">Resume</a></li>
+                <!--li><a href="#">Some Links(constructing)</a></li>
+                <li><a href="#">Log(constructing)</a></li-->
+            </ul>
+        </div>
+        <div id="stuff">
+            <img src="images/zhang.jpg">
+            <br>
+            I am currently a senior student in Computer and Information Science Department at University of Oregon,
+            and I am also a member of Oregon Network Research Group(
+            <a href="http://mirage.cs.uoregon.edu/">ONRG</a>
+            ) directed by Prof. 
+            <a href="http://ix.cs.uoregon.edu/~reza/">Reza Rejaie</a>
+            .
+        </div>
+    </div>
+</div>
+<div class="bot">
+    <p>
+    <script type="text/javascript" src="http://jh.revolvermaps.com/2/1.js?i=7pyhyl896ha&amp;s=138&amp;m=8&amp;v=true&amp;r=true&amp;b=007eff&amp;n=false&amp;c=ff0000" async="async"></script>
+    <img src="http://maps.googleapis.com/maps/api/streetview?size=138x138&location=44.046015000000004,-123.07087749999998&sensor=false&fov=80">
+    </p>
+    <p>
+    &nbsp;Last updated: 1/2/2015 Happy New Year!
+    </p>
+</div>
+
+<!--This footer is based on the cis210 webpage designed by Prof. M Young http://www.cs.uoregon.edu/Classes/13F/cis210/-->
+<div class="footer">
+    <span style="float:left">
+        Contact <a href="mailto:uoozhang@gmail.com?subject=Morgan's web site">webmaster</a>.
+    </span>
+    <span style="float: right">  Based loosely on Rounded design by jedignork, from OSWD.org. </span>
+    &nbsp; <!-- Space to put the two floats above.  Setting text justification does not seem to do it. -->
+</div>
+
+</body>
+</html>
